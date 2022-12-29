@@ -1,8 +1,6 @@
 //--------------------------------------------
 //
 // CLASS  : SynthCity
-// AUTHOR : Charina Duenas, 3568014
-//
 // REMARKS: A playable game level in The Nightrunners.
 //
 //--------------------------------------------

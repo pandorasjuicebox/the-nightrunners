@@ -1,8 +1,6 @@
 //--------------------------------------------
 //
 // CLASS  : GameObject
-// AUTHOR : Charina Duenas, 3568014
-//
 // REMARKS: A managing system that all other objects that exist in the world can extend from.
 //          Makes managing GameObjects cleaner and easier, as well as less code duplication.
 //

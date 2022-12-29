@@ -1,8 +1,6 @@
 //--------------------------------------------
 //
 // CLASS  : Player
-// AUTHOR : Charina Duenas, 3568014
-//
 // REMARKS: The class that controls and holds information about the Player object.
 //
 //--------------------------------------------

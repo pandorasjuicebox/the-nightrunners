@@ -1,8 +1,6 @@
 //--------------------------------------------
 //
 // CLASS  : DataDisc
-// AUTHOR : Charina Duenas, 3568014
-//
 // REMARKS: A game object that serves as a collectible item in the game.
 //          In this case, a data disc is one of the things that a Runner can collect
 //          as they complete a level. The importance of finding and collecting

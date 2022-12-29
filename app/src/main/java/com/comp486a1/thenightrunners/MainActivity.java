@@ -1,8 +1,6 @@
 //--------------------------------------------
 //
 // CLASS  : MainActivity
-// AUTHOR : Charina Duenas, 3568014
-//
 // REMARKS: The Java portion of activity_main.xml, which is the activity that
 //          is responsible for the menu that the user sees during launch.
 //          Playing and quitting the game are found here with their respective buttons.

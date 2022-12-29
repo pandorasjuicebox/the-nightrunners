@@ -1,8 +1,6 @@
 //--------------------------------------------
 //
 // CLASS  : HumanGuard
-// AUTHOR : Charina Duenas, 3568014
-//
 // REMARKS: A game object that serves as an enemy unit in the game.
 //          In this case, HumanGuard is a unit that travels from two different waypoints.
 //

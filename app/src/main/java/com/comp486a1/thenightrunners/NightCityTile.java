@@ -1,8 +1,6 @@
 //--------------------------------------------
 //
 // CLASS  : NightCityTile
-// AUTHOR : Charina Duenas, 3568014
-//
 // REMARKS: A game object used in level design. This tile is used in the NightCity level.
 //
 //--------------------------------------------

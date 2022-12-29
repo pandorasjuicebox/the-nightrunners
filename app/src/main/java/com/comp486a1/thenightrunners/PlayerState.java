@@ -1,8 +1,6 @@
 //--------------------------------------------
 //
 // CLASS  : PlayerState
-// AUTHOR : Charina Duenas, 3568014
-//
 // REMARKS: Holds information about the Player, like collected discs,
 //          remaining lives, and position.
 //

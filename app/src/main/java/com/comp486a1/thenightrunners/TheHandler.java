@@ -1,8 +1,6 @@
 //--------------------------------------------
 //
 // CLASS  : TheHandler
-// AUTHOR : Charina Duenas, 3568014
-//
 // REMARKS: A game object that serves as an unit in the game.
 //          In this case, the Handler is an NPC whose presence represent how,
 //          in the game's lore, each Runner (the player) has a Handler that

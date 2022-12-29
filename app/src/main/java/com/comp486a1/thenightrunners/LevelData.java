@@ -1,8 +1,6 @@
 //--------------------------------------------
 //
 // CLASS  : LevelData
-// AUTHOR : Charina Duenas, 3568014
-//
 // REMARKS: A class in which each level extends from. Holds data relevant to the level such as
 //          tiles, backgrounds, Teleport locations and such.
 //

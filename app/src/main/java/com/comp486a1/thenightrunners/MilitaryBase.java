@@ -1,8 +1,6 @@
 //--------------------------------------------
 //
 // CLASS  : MilitaryBase
-// AUTHOR : Charina Duenas, 3568014
-//
 // REMARKS: A playable game level in The Nightrunners.
 //
 //--------------------------------------------
@@ -55,7 +53,7 @@ public class MilitaryBase extends LevelData{
         // From https://ansimuz.itch.io/warped-zone-202
         backgroundDataList = new ArrayList<BackgroundData>(); // note that speeds less than 2 cause problems
         this.backgroundDataList.add(new BackgroundData("military_base_foreground", true, -1, -10, 25, 4, 20));
-
+    }
 }
 
 

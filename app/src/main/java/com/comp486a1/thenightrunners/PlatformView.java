@@ -1,8 +1,6 @@
 //--------------------------------------------
 //
 // CLASS  : PlatformView
-// AUTHOR : Charina Duenas, 3568014
-//
 // REMARKS: The class that holds the View for the game. This class is also responsible for event handling
 //          like object clipping, sound effects, player navigation, drawing the Canvas, and so on.
 //

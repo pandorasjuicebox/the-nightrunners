@@ -1,8 +1,6 @@
 //--------------------------------------------
 //
 // CLASS  : BackgroundData
-// AUTHOR : Charina Duenas, 3568014
-//
 // REMARKS: A data structure class for the Background class.
 //
 //--------------------------------------------

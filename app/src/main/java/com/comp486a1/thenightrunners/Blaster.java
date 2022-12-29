@@ -1,8 +1,6 @@
 //--------------------------------------------
 //
 // CLASS  : Blaster
-// AUTHOR : Charina Duenas, 3568014
-//
 // REMARKS: A game object that manages the player's weapons.
 //
 //--------------------------------------------

@@ -6,8 +6,6 @@ import java.util.ArrayList;
 //--------------------------------------------
 //
 // CLASS  : InputController
-// AUTHOR : Charina Duenas, 3568014
-//
 // REMARKS: Contains code for PlatformView, including navigational buttons.
 //
 //--------------------------------------------

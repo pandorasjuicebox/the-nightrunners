@@ -1,8 +1,6 @@
 //--------------------------------------------
 //
 // CLASS  : Viewport
-// AUTHOR : Charina Duenas, 3568014
-//
 // REMARKS: A class that defines what the player sees on their device, and in the case of
 //          this game, it also determines what the player sees in-game (as the game is in fullscreen).
 //

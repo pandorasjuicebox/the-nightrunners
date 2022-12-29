@@ -1,8 +1,6 @@
 //--------------------------------------------
 //
 // CLASS  : RectHitbox
-// AUTHOR : Charina Duenas, 3568014
-//
 // REMARKS: A class that handles hitboxes for an Object.
 //
 //--------------------------------------------

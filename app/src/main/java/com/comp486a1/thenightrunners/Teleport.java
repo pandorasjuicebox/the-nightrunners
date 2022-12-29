@@ -1,8 +1,6 @@
 //--------------------------------------------
 //
 // CLASS  : Teleport
-// AUTHOR : Charina Duenas, 3568014
-//
 // REMARKS: A class that controls the Teleport object.
 //
 //--------------------------------------------

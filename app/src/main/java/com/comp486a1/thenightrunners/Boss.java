@@ -1,8 +1,6 @@
 //--------------------------------------------
 //
 // CLASS  : Boss
-// AUTHOR : Charina Duenas, 3568014
-//
 // REMARKS: A game object that serves as an enemy unit in the game.
 //          In this case, Boss is the last enemy the player will face in the game.
 //

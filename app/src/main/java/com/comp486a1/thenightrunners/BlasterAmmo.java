@@ -1,8 +1,6 @@
 //--------------------------------------------
 //
 // CLASS  : BlasterAmmo
-// AUTHOR : Charina Duenas, 3568014
-//
 // REMARKS: A game object that manages the ammunition of the Blaster object.
 //
 //--------------------------------------------

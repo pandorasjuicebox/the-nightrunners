@@ -2,8 +2,6 @@
 //--------------------------------------------
 //
 // CLASS  : Background
-// AUTHOR : Charina Duenas, 3568014
-//
 // REMARKS: A class with functionalities needed for controlling the dimensions of
 //          a background, as well as for parallax effects.
 //

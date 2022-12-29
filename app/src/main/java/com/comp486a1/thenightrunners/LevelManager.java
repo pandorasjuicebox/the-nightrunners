@@ -2,8 +2,6 @@
 //--------------------------------------------
 //
 // CLASS  : LevelManager
-// AUTHOR : Charina Duenas, 3568014
-//
 // REMARKS: A class that manages our levels in the game and what exists in them. This
 //          includes having a list of game objects, backgrounds, bitmaps, map sizes,
 //          as well as the player itself.

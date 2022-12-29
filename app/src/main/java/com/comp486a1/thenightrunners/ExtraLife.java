@@ -1,8 +1,6 @@
 //--------------------------------------------
 //
 // CLASS  : ExtraLife
-// AUTHOR : Charina Duenas, 3568014
-//
 // REMARKS: A game object that serves as a collectible item in the game.
 //          In this case, an ExtraLIfe is one of the things that a Runner can collect
 //          as they complete a level. It replenishes the amount of "lives" they

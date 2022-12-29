@@ -1,8 +1,6 @@
 //--------------------------------------------
 //
 // CLASS  : Location
-// AUTHOR : Charina Duenas, 3568014
-//
 // REMARKS: Holds the location of the Teleporters each level.
 //
 //--------------------------------------------

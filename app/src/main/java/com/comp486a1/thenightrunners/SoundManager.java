@@ -1,8 +1,6 @@
 //--------------------------------------------
 //
 // CLASS  : SoundManager
-// AUTHOR : Charina Duenas, 3568014
-//
 // REMARKS: A class that loads sound files many different sound files
 //          that we can define and call by declaring a SoundManager object in
 //          our PlatformView.

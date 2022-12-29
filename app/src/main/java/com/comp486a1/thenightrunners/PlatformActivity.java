@@ -1,8 +1,6 @@
 //--------------------------------------------
 //
 // CLASS  : PlatformActivity
-// AUTHOR : Charina Duenas, 3568014
-//
 // REMARKS: A class that instantiates a PlatformView object.
 //
 //--------------------------------------------
