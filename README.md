@@ -1,7 +1,7 @@
-# The Nightrunners
-### A 2D mobile platformer for Android devices. 
-
 <div align=center><img width="492" alt="image" src="https://user-images.githubusercontent.com/30426576/209905365-f0eb7ec3-cf22-4eec-adf0-d5a05e976d30.png"></div>
+
+# The Nightrunners
+A 2D mobile platformer for Android devices. 
 
 
 ## Contents
