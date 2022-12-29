@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">The Nightrunners</string>
+    <string name="todo">TODO</string>
+    <string name="quit">QUIT</string>
+    <string name="the_nightrunners">THE NIGHTRUNNERS</string>
+    <string name="play">PLAY</string>
+    <string name="background">background</string>
+    <string name="touch_screen_to_try_again">touch screen to try again</string>
+</resources>
