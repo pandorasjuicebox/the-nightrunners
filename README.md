@@ -164,7 +164,7 @@ Security Alpha is a private security company with a long-term contract with the 
   * <b>[Sci-Fi Sound Effects Asset Pack](https://mattflat.itch.io/sci-fi-space-sound-effects-asset-pack)</b> - This asset pack is from the creator [mattflat](https://mattflat.itch.io). The sound effects for shoot, jump, teleport, obtaining a disc, landing a hit on a human guard, explosion of a drone, and collecting an extra life come from this pack. This work is protected under [Attribution-NoDerivs 3.0 Unported (CC BY-ND 3.0)](https://creativecommons.org/licenses/by-nd/3.0/) license, which allows sharing and distribution of the material as long as the following conditions are fulfilled: 
        * I must give credit to the creator, provide a link to the license, and note any changes.
        * Through the Acknowledgements section and in my source code, I have given credit to the creator. 
-       * In this Assets - Sound Effects section, I have shared the link of the license page, and as for any changes, no modifications were made.
+       * In this section, I have shared the link of the license page, and as for any changes, no modifications were made.
        * That any derivative works on the material cannot be distributed. 
 
   * <b>[AI, Cyberdemon, & Alien Sound Effects](https://btl-games.itch.io/ai-cyberdemon-alien-sound-effects)</b> - This asset pack is from the creator [BTL games](https://btl-games.itch.io). The sound effect for player death comes from this pack. This work appears to not have a Creative Commons license attached to its page, however, the creator has explicitly stated the following on the asset’s page:
