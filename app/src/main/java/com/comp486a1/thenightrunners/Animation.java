@@ -1,8 +1,6 @@
 //--------------------------------------------
 //
 // CLASS  : Animation
-// AUTHOR : Charina Duenas, 3568014
-//
 // REMARKS: Responsible for managing the animation aspects of a
 //          sprite sheet, including frame counts and FPS.
 //
