@@ -121,7 +121,7 @@ Security Alpha is a private security company with a long-term contract with the 
 <i>The Nightrunners</i> stands on the shoulders of very talented creators that helped bring this vision to life. Credits to these creators will be found in this section. 
 
 ### Game Engine
-<i>The Nightrunners</i> is built using the 2D platformer game engine we covered in Unit 3 of John Horton’s Android Game Programming by Example, which is the textbook that we are using for this class. Not only has this been an incredible resource, it also helped me understand how to build a 2D platformer using Java and developing for Android devices. 
+<i>The Nightrunners</i> is built using the 2D platformer game engine from Unit 3 of John Horton’s <i>[Android Game Programming by Example](https://www.amazon.ca/Android-Game-Programming-Example-Horton/dp/1785280120)</i>. Not only has this been an incredible resource, it also helped me understand how to build a 2D platformer using Java and developing for Android devices. 
 
 ### Assets - Drawable 
 <i>The Nightrunners</i> uses many assets from talented creators who have granted permission that allow me to do so. The assets are all from creators who have a similar thematical vision and style with each other, and this has helped make <i>The Nightrunners</i> to be visually consistent as much as possible. 
